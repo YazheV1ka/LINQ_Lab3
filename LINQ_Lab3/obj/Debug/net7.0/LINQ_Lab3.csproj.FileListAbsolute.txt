@@ -1,0 +1,15 @@
+D:\code\C#\Labs\LINQ\3\LINQ_Lab3\LINQ_Lab3\bin\Debug\net7.0\LINQ_Lab3.exe
+D:\code\C#\Labs\LINQ\3\LINQ_Lab3\LINQ_Lab3\bin\Debug\net7.0\LINQ_Lab3.deps.json
+D:\code\C#\Labs\LINQ\3\LINQ_Lab3\LINQ_Lab3\bin\Debug\net7.0\LINQ_Lab3.runtimeconfig.json
+D:\code\C#\Labs\LINQ\3\LINQ_Lab3\LINQ_Lab3\bin\Debug\net7.0\LINQ_Lab3.dll
+D:\code\C#\Labs\LINQ\3\LINQ_Lab3\LINQ_Lab3\bin\Debug\net7.0\LINQ_Lab3.pdb
+D:\code\C#\Labs\LINQ\3\LINQ_Lab3\LINQ_Lab3\obj\Debug\net7.0\LINQ_Lab3.csproj.AssemblyReference.cache
+D:\code\C#\Labs\LINQ\3\LINQ_Lab3\LINQ_Lab3\obj\Debug\net7.0\LINQ_Lab3.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\C#\Labs\LINQ\3\LINQ_Lab3\LINQ_Lab3\obj\Debug\net7.0\LINQ_Lab3.AssemblyInfoInputs.cache
+D:\code\C#\Labs\LINQ\3\LINQ_Lab3\LINQ_Lab3\obj\Debug\net7.0\LINQ_Lab3.AssemblyInfo.cs
+D:\code\C#\Labs\LINQ\3\LINQ_Lab3\LINQ_Lab3\obj\Debug\net7.0\LINQ_Lab3.csproj.CoreCompileInputs.cache
+D:\code\C#\Labs\LINQ\3\LINQ_Lab3\LINQ_Lab3\obj\Debug\net7.0\LINQ_Lab3.dll
+D:\code\C#\Labs\LINQ\3\LINQ_Lab3\LINQ_Lab3\obj\Debug\net7.0\refint\LINQ_Lab3.dll
+D:\code\C#\Labs\LINQ\3\LINQ_Lab3\LINQ_Lab3\obj\Debug\net7.0\LINQ_Lab3.pdb
+D:\code\C#\Labs\LINQ\3\LINQ_Lab3\LINQ_Lab3\obj\Debug\net7.0\LINQ_Lab3.genruntimeconfig.cache
+D:\code\C#\Labs\LINQ\3\LINQ_Lab3\LINQ_Lab3\obj\Debug\net7.0\ref\LINQ_Lab3.dll
